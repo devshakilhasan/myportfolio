@@ -1,0 +1,37 @@
+body{
+    font-family: 'Open Sans', sans-serif;
+    
+}
+.banner-container{
+   background-color:#851717;
+}
+.banner-collum{
+    background-color:#cfb3b30c ;
+}
+.navbar-container{
+    background-color: rgba(12, 11, 11, 0.918);
+    position: sticky;
+    top: 0;
+    z-index: 2;
+}
+.about-container{
+    background-color: aqua;
+}
+.education-container{
+    background-color: blanchedalmond;
+}
+.redtype-color{
+    color: rgb(241, 78, 111);
+}
+.circle{
+    background-color:rgb(241, 78, 111) ;
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+}
+.project-container{
+    background-color: cyan;
+}
+.form-container{
+    background-color: rgb(140, 171, 238);
+}
